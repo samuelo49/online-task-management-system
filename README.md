@@ -1,7 +1,5 @@
 # online-task-management-system
-'''
     Online Task Management System designed to empower users with seamless task management capabilities. This innovative application will include real-time updates, advanced analytics and reporting, a robust notification system, collaboration features, task tagging, and customizable attributes. 
-'''
 
 # Core Requirements
     users: Handles user registration, authentication, and user roles.
