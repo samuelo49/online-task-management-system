@@ -33,6 +33,7 @@ users App
         - updated_at
 
 tasks App
+    
     - Task Model(model for tasks)
         - task_id
         - task_description
