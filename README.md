@@ -10,6 +10,7 @@
 
 # Models
 users App
+
     - User Model
         - user_id
         - user_profile_picture 
